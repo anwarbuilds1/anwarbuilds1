@@ -118,7 +118,7 @@ const anwar = {
 
 ---
 
-#  Current Focus
+# 🚀 Current Focus
 
 - Building scalable backend architectures
 - Learning advanced DevOps & cloud infrastructure
