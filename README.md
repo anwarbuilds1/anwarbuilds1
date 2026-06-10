@@ -15,7 +15,7 @@
 ```ts
 const anwar = {
   role: "Full Stack Developer",
-  
+
   frontend: [
     "React",
     "React Native",
@@ -54,23 +54,23 @@ const anwar = {
 
 <div align="center">
 
-## Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
-## Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-## Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
 
-## Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
@@ -78,13 +78,13 @@ const anwar = {
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sayyed-anwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayyed-anwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyed-anwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyed-anwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -92,27 +92,27 @@ const anwar = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sayyed-anwar&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=sayyed-anwar&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sayyed-anwar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyed-anwar&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyed-anwar&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sayyed-anwar&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -124,6 +124,7 @@ const anwar = {
 - Learning advanced DevOps & cloud infrastructure
 - Exploring Node.js internals & system design
 - Improving performance and scalability patterns
+- Mastering distributed systems and cloud-native development
 
 ---
 
@@ -157,6 +158,6 @@ const anwar = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29" />
 
 </div>
