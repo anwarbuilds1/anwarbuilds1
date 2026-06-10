@@ -92,7 +92,7 @@ const anwar = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyed-anwar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sayyed-anwar&theme=tokyonight&hide_border=true" />
 
 </div>
 
