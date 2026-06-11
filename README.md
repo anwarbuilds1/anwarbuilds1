@@ -54,16 +54,6 @@ const anwar = {
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| URL Shortener | Production-ready URL shortening platform with analytics, expiration handling, authentication, and API support. | Node.js, Express, MongoDB |
-| Corporate CMS | Dynamic website and CMS managing 50+ SEO-optimized pages with role-based administration. | React, Node.js, MongoDB |
-| REST API Platform | Secure backend architecture with JWT authentication, validation, logging, and deployment automation. | Node.js, PostgreSQL, Docker |
-
----
-
 # ⚡ Tech Stack
 
 <div align="center">
