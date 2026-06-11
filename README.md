@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sayyed%20Anwar&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=52&desc=Full%20Stack%20Developer%20•%20Cloud%20Enthusiast%20•%20Node.js&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anwar%20Builds&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=52&desc=Full%20Stack%20Developer%20•%20Cloud%20Enthusiast%20•%20Node.js&descAlignY=60&descSize=18" width="100%" />
 
 <br/>
 
@@ -14,10 +14,14 @@
 
 ```ts
 const anwar = {
+  name: "Anwar Rizwan",
+  username: "anwarbuilds1",
+
   role: "Full Stack Developer",
 
   frontend: [
     "React",
+    "Next.js",
     "React Native",
     "JavaScript",
     "HTML",
@@ -42,11 +46,21 @@ const anwar = {
     "CI/CD"
   ],
 
-  currentlyBuilding: "Scalable APIs & Cloud Native Apps",
+  currentlyBuilding: "Scalable APIs & Cloud Native Applications",
 
-  funFact: "I love understanding how systems work internally ⚙️"
+  funFact: "I enjoy understanding how systems work under the hood ⚙️"
 };
 ```
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| URL Shortener | Production-ready URL shortening platform with analytics, expiration handling, authentication, and API support. | Node.js, Express, MongoDB |
+| Corporate CMS | Dynamic website and CMS managing 50+ SEO-optimized pages with role-based administration. | React, Node.js, MongoDB |
+| REST API Platform | Secure backend architecture with JWT authentication, validation, logging, and deployment automation. | Node.js, PostgreSQL, Docker |
 
 ---
 
@@ -56,7 +70,7 @@ const anwar = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 
 ### Backend
 
@@ -82,9 +96,9 @@ const anwar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayyed-anwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anwarbuilds1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyed-anwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarbuilds1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -92,7 +106,7 @@ const anwar = {
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sayyed-anwar&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=anwarbuilds1&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -102,7 +116,7 @@ const anwar = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyed-anwar&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anwarbuilds1&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -112,19 +126,30 @@ const anwar = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sayyed-anwar&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=anwarbuilds1&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
 - Building scalable backend architectures
-- Learning advanced DevOps & cloud infrastructure
-- Exploring Node.js internals & system design
-- Improving performance and scalability patterns
+- Designing production-grade REST APIs
+- Learning advanced DevOps and cloud infrastructure
+- Exploring Node.js internals and system design
+- Improving application performance and scalability
 - Mastering distributed systems and cloud-native development
+
+---
+
+# 🌱 Currently Learning
+
+- AWS Services & Cloud Architecture
+- Docker & Container Orchestration
+- CI/CD Pipelines
+- PostgreSQL Performance Optimization
+- System Design & Distributed Systems
 
 ---
 
@@ -144,7 +169,7 @@ const anwar = {
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/sayyed-anwar">
+<a href="https://github.com/anwarbuilds1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -152,9 +177,17 @@ const anwar = {
 
 ---
 
+# 💡 Developer Philosophy
+
+> Build things that solve real problems.  
+> Write clean, maintainable code.  
+> Keep learning. Keep shipping. 🚀
+
+---
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sayyed-anwar&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=anwarbuilds1&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <br/><br/>
 
