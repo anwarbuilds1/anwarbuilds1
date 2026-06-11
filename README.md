@@ -19,6 +19,9 @@ const anwar = {
 
   role: "Full Stack Developer",
 
+  portfolio: "https://anwarbuilds.com",
+  linkedin: "https://linkedin.com/in/anwarbuilds",
+
   frontend: [
     "React",
     "Next.js",
@@ -137,15 +140,15 @@ const anwar = {
 
 <div align="center">
 
-<a href="https://sayyed-anwar.vercel.app/">
+<a href="https://anwarbuilds.com/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/sayyed-anwar-b5b478265/">
+<a href="https://www.linkedin.com/in/anwarbuilds/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:helloanwar975@gmail.com">
+<a href="mailto:anwarbuilds@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
